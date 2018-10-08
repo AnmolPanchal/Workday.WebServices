@@ -1,2 +1,0 @@
-C:\Users\mf185129\Desktop\Workday.WebServices\obj\Debug\WorkdayWebServices.csprojAssemblyReference.cache
-C:\Users\mf185129\Desktop\Workday.WebServices\obj\Debug\WorkdayWebServices.csproj.CoreCompileInputs.cache
