@@ -1,0 +1,9 @@
+C:\Users\mf185129\Desktop\Workday.WebServices\Workday.TimeTracking\bin\Debug\netstandard2.0\Workday.TimeTracking.deps.json
+C:\Users\mf185129\Desktop\Workday.WebServices\Workday.TimeTracking\bin\Debug\netstandard2.0\Workday.TimeTracking.dll
+C:\Users\mf185129\Desktop\Workday.WebServices\Workday.TimeTracking\obj\Debug\netstandard2.0\Workday.TimeTracking.csproj.CoreCompileInputs.cache
+C:\Users\mf185129\Desktop\Workday.WebServices\Workday.TimeTracking\obj\Debug\netstandard2.0\Workday.TimeTracking.AssemblyInfoInputs.cache
+C:\Users\mf185129\Desktop\Workday.WebServices\Workday.TimeTracking\obj\Debug\netstandard2.0\Workday.TimeTracking.AssemblyInfo.cs
+C:\Users\mf185129\Desktop\Workday.WebServices\Workday.TimeTracking\bin\Debug\netstandard2.0\Workday.TimeTracking.pdb
+C:\Users\mf185129\Desktop\Workday.WebServices\Workday.TimeTracking\obj\Debug\netstandard2.0\Workday.TimeTracking.csprojAssemblyReference.cache
+C:\Users\mf185129\Desktop\Workday.WebServices\Workday.TimeTracking\obj\Debug\netstandard2.0\Workday.TimeTracking.dll
+C:\Users\mf185129\Desktop\Workday.WebServices\Workday.TimeTracking\obj\Debug\netstandard2.0\Workday.TimeTracking.pdb

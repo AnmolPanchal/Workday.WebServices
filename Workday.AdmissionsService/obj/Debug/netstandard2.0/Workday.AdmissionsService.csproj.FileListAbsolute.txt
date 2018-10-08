@@ -1,6 +1,0 @@
-C:\Users\mf185129\Desktop\Workday.WebServices\New Libraries\Workday.AdmissionsService\obj\Debug\netstandard2.0\Workday.AdmissionsService.csprojAssemblyReference.cache
-C:\Users\mf185129\Desktop\Workday.WebServices\New Libraries\Workday.AdmissionsService\obj\Debug\netstandard2.0\Workday.AdmissionsService.csproj.CoreCompileInputs.cache
-C:\Users\mf185129\Desktop\Workday.WebServices\New Libraries\Workday.AdmissionsService\obj\Debug\netstandard2.0\Workday.AdmissionsService.AssemblyInfoInputs.cache
-C:\Users\mf185129\Desktop\Workday.WebServices\New Libraries\Workday.AdmissionsService\obj\Debug\netstandard2.0\Workday.AdmissionsService.AssemblyInfo.cs
-C:\Users\mf185129\Desktop\Workday.WebServices\New Libraries\Workday.AdmissionsService\bin\Debug\netstandard2.0\Workday.AdmissionsService.deps.json
-C:\Users\mf185129\Desktop\Workday.WebServices\New Libraries\Workday.AdmissionsService\bin\Debug\netstandard2.0\Workday.AdmissionsService.dll

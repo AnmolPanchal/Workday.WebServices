@@ -1,0 +1,8 @@
+C:\Users\mf185129\Desktop\Workday.WebServices\Workday.WorkforcePlanning\bin\Debug\netstandard2.0\Workday.WorkforcePlanning.deps.json
+C:\Users\mf185129\Desktop\Workday.WebServices\Workday.WorkforcePlanning\bin\Debug\netstandard2.0\Workday.WorkforcePlanning.dll
+C:\Users\mf185129\Desktop\Workday.WebServices\Workday.WorkforcePlanning\obj\Debug\netstandard2.0\Workday.WorkforcePlanning.csproj.CoreCompileInputs.cache
+C:\Users\mf185129\Desktop\Workday.WebServices\Workday.WorkforcePlanning\obj\Debug\netstandard2.0\Workday.WorkforcePlanning.AssemblyInfoInputs.cache
+C:\Users\mf185129\Desktop\Workday.WebServices\Workday.WorkforcePlanning\obj\Debug\netstandard2.0\Workday.WorkforcePlanning.AssemblyInfo.cs
+C:\Users\mf185129\Desktop\Workday.WebServices\Workday.WorkforcePlanning\bin\Debug\netstandard2.0\Workday.WorkforcePlanning.pdb
+C:\Users\mf185129\Desktop\Workday.WebServices\Workday.WorkforcePlanning\obj\Debug\netstandard2.0\Workday.WorkforcePlanning.dll
+C:\Users\mf185129\Desktop\Workday.WebServices\Workday.WorkforcePlanning\obj\Debug\netstandard2.0\Workday.WorkforcePlanning.pdb
