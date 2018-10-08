@@ -5,7 +5,7 @@ using System.Diagnostics;
 using System.Runtime.CompilerServices;
 using System.Xml.Serialization;
 
-namespace WorkdayWebServices.Academic_FoundationService
+namespace Workday.AcademicFoundation
 {
 	[GeneratedCode("System.Xml", "4.6.1590.0"), DesignerCategory("code"), DebuggerStepThrough, XmlType(TypeName = "Student_External_Post-Secondary_Transcript_Summary_DataType", Namespace = "urn:com.workday/bsvc")]
 	[Serializable]

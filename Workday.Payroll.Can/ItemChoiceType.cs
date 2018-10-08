@@ -2,7 +2,7 @@ using System;
 using System.CodeDom.Compiler;
 using System.Xml.Serialization;
 
-namespace WorkdayWebServices.Payroll_CANService
+namespace Workday.Payroll.Can
 {
 	[GeneratedCode("System.Xml", "4.6.1590.0"), XmlType(Namespace = "urn:com.workday/bsvc", IncludeInSchema = false)]
 	[Serializable]

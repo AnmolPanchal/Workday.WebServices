@@ -1,4 +1,3 @@
-using System;
 using System.CodeDom.Compiler;
 using System.ComponentModel;
 using System.Diagnostics;
@@ -6,7 +5,7 @@ using System.ServiceModel;
 using System.ServiceModel.Channels;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Payroll_CANService
+namespace Workday.Payroll.Can
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), DebuggerStepThrough]
 	public class Payroll_CANPortClient : ClientBase<Payroll_CANPort>, Payroll_CANPort

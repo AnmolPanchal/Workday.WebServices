@@ -1,10 +1,9 @@
-using System;
 using System.CodeDom.Compiler;
 using System.ComponentModel;
 using System.Diagnostics;
 using System.ServiceModel;
 
-namespace WorkdayWebServices.Academic_AdvisingService
+namespace Workday.AcademicAdvising
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), EditorBrowsable(EditorBrowsableState.Advanced), DebuggerStepThrough, MessageContract(IsWrapped = false)]
 	public class Get_Academic_Progress_for_StudentOutput

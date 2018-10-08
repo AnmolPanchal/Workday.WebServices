@@ -1,4 +1,3 @@
-using System;
 using System.CodeDom.Compiler;
 using System.ComponentModel;
 using System.Diagnostics;
@@ -6,7 +5,7 @@ using System.ServiceModel;
 using System.ServiceModel.Channels;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Absence_ManagementService
+namespace Workday.AbsenceManagement
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), DebuggerStepThrough]
 	public class Absence_ManagementPortClient : ClientBase<Absence_ManagementPort>, Absence_ManagementPort

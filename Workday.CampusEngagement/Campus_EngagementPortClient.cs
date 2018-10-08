@@ -6,7 +6,7 @@ using System.ServiceModel;
 using System.ServiceModel.Channels;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Campus_EngagementService
+namespace Workday.CampusEngagement
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), DebuggerStepThrough]
 	public class Campus_EngagementPortClient : ClientBase<Campus_EngagementPort>, Campus_EngagementPort

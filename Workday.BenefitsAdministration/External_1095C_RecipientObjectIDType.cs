@@ -6,7 +6,7 @@ using System.Runtime.CompilerServices;
 using System.Xml.Schema;
 using System.Xml.Serialization;
 
-namespace WorkdayWebServices.Benefits_AdministrationService
+namespace Workday.BenefitsAdministration
 {
 	[GeneratedCode("System.Xml", "4.6.1590.0"), DesignerCategory("code"), DebuggerStepThrough, XmlType(TypeName = "External_1095-C_RecipientObjectIDType", Namespace = "urn:com.workday/bsvc")]
 	[Serializable]

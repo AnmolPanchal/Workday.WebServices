@@ -5,7 +5,7 @@ using System.Diagnostics;
 using System.Runtime.CompilerServices;
 using System.Xml.Serialization;
 
-namespace WorkdayWebServices.Payroll_CANService
+namespace Workday.Payroll.Can
 {
 	[GeneratedCode("System.Xml", "4.6.1590.0"), DesignerCategory("code"), DebuggerStepThrough, XmlType(TypeName = "RL-1_Contact_InformationType", Namespace = "urn:com.workday/bsvc")]
 	[Serializable]

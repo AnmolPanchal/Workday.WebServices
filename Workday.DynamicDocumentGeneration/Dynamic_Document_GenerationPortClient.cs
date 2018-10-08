@@ -1,4 +1,3 @@
-using System;
 using System.CodeDom.Compiler;
 using System.ComponentModel;
 using System.Diagnostics;
@@ -6,7 +5,7 @@ using System.ServiceModel;
 using System.ServiceModel.Channels;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Dynamic_Document_GenerationService
+namespace Workday.DynamicDocumentGeneration
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), DebuggerStepThrough]
 	public class Dynamic_Document_GenerationPortClient : ClientBase<Dynamic_Document_GenerationPort>, Dynamic_Document_GenerationPort

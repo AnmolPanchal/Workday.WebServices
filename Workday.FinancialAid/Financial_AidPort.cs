@@ -3,7 +3,7 @@ using System.CodeDom.Compiler;
 using System.ServiceModel;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Financial_AidService
+namespace Workday.FinancialAid
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), ServiceContract(Namespace = "urn:com.workday/bsvc/Financial_Aid", ConfigurationName = "Financial_AidService.Financial_AidPort")]
 	public interface Financial_AidPort

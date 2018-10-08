@@ -5,7 +5,7 @@ using System.Diagnostics;
 using System.Runtime.CompilerServices;
 using System.Xml.Serialization;
 
-namespace WorkdayWebServices.CompensationService
+namespace Workday.Compensation
 {
 	[GeneratedCode("System.Xml", "4.6.1590.0"), DesignerCategory("code"), DebuggerStepThrough, XmlType(TypeName = "One-Time_Payment_Plan_Configurable_Category_Request_CriteriaType", Namespace = "urn:com.workday/bsvc")]
 	[Serializable]

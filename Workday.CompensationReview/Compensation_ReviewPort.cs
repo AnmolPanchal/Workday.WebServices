@@ -3,7 +3,7 @@ using System.CodeDom.Compiler;
 using System.ServiceModel;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Compensation_ReviewService
+namespace Workday.CompensationReview
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), ServiceContract(Namespace = "urn:com.workday/bsvc/Compensation_Review", ConfigurationName = "Compensation_ReviewService.Compensation_ReviewPort")]
 	public interface Compensation_ReviewPort

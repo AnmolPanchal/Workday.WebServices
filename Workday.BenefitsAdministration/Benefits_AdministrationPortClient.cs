@@ -6,7 +6,7 @@ using System.ServiceModel;
 using System.ServiceModel.Channels;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Benefits_AdministrationService
+namespace Workday.BenefitsAdministration
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), DebuggerStepThrough]
 	public class Benefits_AdministrationPortClient : ClientBase<Benefits_AdministrationPort>, Benefits_AdministrationPort

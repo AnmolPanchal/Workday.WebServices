@@ -6,7 +6,7 @@ using System.ServiceModel;
 using System.ServiceModel.Channels;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Compensation_ReviewService
+namespace Workday.CompensationReview
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), DebuggerStepThrough]
 	public class Compensation_ReviewPortClient : ClientBase<Compensation_ReviewPort>, Compensation_ReviewPort

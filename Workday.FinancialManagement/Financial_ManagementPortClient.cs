@@ -6,7 +6,7 @@ using System.ServiceModel;
 using System.ServiceModel.Channels;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Financial_ManagementService
+namespace Workday.FinancialManagement
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), DebuggerStepThrough]
 	public class Financial_ManagementPortClient : ClientBase<Financial_ManagementPort>, Financial_ManagementPort

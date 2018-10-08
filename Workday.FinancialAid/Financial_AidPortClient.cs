@@ -6,7 +6,7 @@ using System.ServiceModel;
 using System.ServiceModel.Channels;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Financial_AidService
+namespace Workday.FinancialAid
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), DebuggerStepThrough]
 	public class Financial_AidPortClient : ClientBase<Financial_AidPort>, Financial_AidPort

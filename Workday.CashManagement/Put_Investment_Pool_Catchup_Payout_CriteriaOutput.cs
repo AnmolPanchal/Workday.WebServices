@@ -5,7 +5,7 @@ using System.Diagnostics;
 using System.ServiceModel;
 using System.Xml.Serialization;
 
-namespace WorkdayWebServices.Cash_ManagementService
+namespace Workday.CashManagement
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), EditorBrowsable(EditorBrowsableState.Advanced), DebuggerStepThrough, MessageContract(IsWrapped = false)]
 	public class Put_Investment_Pool_Catchup_Payout_CriteriaOutput

@@ -6,7 +6,7 @@ using System.ServiceModel;
 using System.ServiceModel.Channels;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Academic_FoundationService
+namespace Workday.AcademicFoundation
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), DebuggerStepThrough]
 	public class Academic_FoundationPortClient : ClientBase<Academic_FoundationPort>, Academic_FoundationPort

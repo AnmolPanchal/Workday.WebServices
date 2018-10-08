@@ -5,7 +5,7 @@ using System.Diagnostics;
 using System.Runtime.CompilerServices;
 using System.Xml.Serialization;
 
-namespace WorkdayWebServices.Financial_AidService
+namespace Workday.FinancialAid
 {
 	[GeneratedCode("System.Xml", "4.6.1590.0"), DesignerCategory("code"), DebuggerStepThrough, XmlType(TypeName = "Imported_FA_Package_-_Student_Waiver_DataType", Namespace = "urn:com.workday/bsvc")]
 	[Serializable]

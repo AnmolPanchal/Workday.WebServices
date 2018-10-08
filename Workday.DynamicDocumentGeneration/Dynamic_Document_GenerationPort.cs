@@ -1,9 +1,8 @@
-using System;
 using System.CodeDom.Compiler;
 using System.ServiceModel;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Dynamic_Document_GenerationService
+namespace Workday.DynamicDocumentGeneration
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), ServiceContract(Namespace = "urn:com.workday/bsvc/Dynamic_Document_Generation", ConfigurationName = "Dynamic_Document_GenerationService.Dynamic_Document_GenerationPort")]
 	public interface Dynamic_Document_GenerationPort

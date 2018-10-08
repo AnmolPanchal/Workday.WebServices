@@ -6,7 +6,7 @@ using System.ServiceModel;
 using System.ServiceModel.Channels;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.External_IntegrationsService
+namespace Workday.ExternalIntegrations
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), DebuggerStepThrough]
 	public class External_IntegrationsPortClient : ClientBase<External_IntegrationsPort>, External_IntegrationsPort

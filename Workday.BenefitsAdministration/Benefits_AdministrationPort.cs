@@ -3,7 +3,7 @@ using System.CodeDom.Compiler;
 using System.ServiceModel;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Benefits_AdministrationService
+namespace Workday.BenefitsAdministration
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), ServiceContract(Namespace = "urn:com.workday/bsvc/Benefits_Administration", ConfigurationName = "Benefits_AdministrationService.Benefits_AdministrationPort")]
 	public interface Benefits_AdministrationPort

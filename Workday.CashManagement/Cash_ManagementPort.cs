@@ -3,7 +3,7 @@ using System.CodeDom.Compiler;
 using System.ServiceModel;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Cash_ManagementService
+namespace Workday.CashManagement
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), ServiceContract(Namespace = "urn:com.workday/bsvc/Cash_Management", ConfigurationName = "Cash_ManagementService.Cash_ManagementPort")]
 	public interface Cash_ManagementPort

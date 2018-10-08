@@ -6,7 +6,7 @@ using System.ServiceModel;
 using System.ServiceModel.Channels;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Cash_ManagementService
+namespace Workday.CashManagement
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), DebuggerStepThrough]
 	public class Cash_ManagementPortClient : ClientBase<Cash_ManagementPort>, Cash_ManagementPort

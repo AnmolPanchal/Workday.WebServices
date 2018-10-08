@@ -3,7 +3,7 @@ using System.CodeDom.Compiler;
 using System.ServiceModel;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.AdmissionsService
+namespace Workday.Admissions
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), ServiceContract(Namespace = "urn:com.workday/bsvc/Admissions", ConfigurationName = "AdmissionsService.AdmissionsPort")]
 	public interface AdmissionsPort

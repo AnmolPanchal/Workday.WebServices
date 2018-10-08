@@ -6,7 +6,7 @@ using System.Runtime.CompilerServices;
 using System.Xml.Schema;
 using System.Xml.Serialization;
 
-namespace WorkdayWebServices.Cash_ManagementService
+namespace Workday.CashManagement
 {
 	[GeneratedCode("System.Xml", "4.6.1590.0"), DesignerCategory("code"), DebuggerStepThrough, XmlType(TypeName = "Put_Investment_Pool_Catch-up_Payout_Criteria_ResponseType", Namespace = "urn:com.workday/bsvc")]
 	[Serializable]

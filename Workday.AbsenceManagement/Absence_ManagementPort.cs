@@ -1,9 +1,8 @@
-using System;
 using System.CodeDom.Compiler;
 using System.ServiceModel;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Absence_ManagementService
+namespace Workday.AbsenceManagement
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), ServiceContract(Namespace = "urn:com.workday/bsvc/Absence_Management", ConfigurationName = "Absence_ManagementService.Absence_ManagementPort")]
 	public interface Absence_ManagementPort

@@ -5,7 +5,7 @@ using System.Diagnostics;
 using System.Runtime.CompilerServices;
 using System.Xml.Serialization;
 
-namespace WorkdayWebServices.Financial_ManagementService
+namespace Workday.FinancialManagement
 {
 	[GeneratedCode("System.Xml", "4.6.1590.0"), DesignerCategory("code"), DebuggerStepThrough, XmlType(TypeName = "Income_Code_for_1042-S_DataType", Namespace = "urn:com.workday/bsvc")]
 	[Serializable]

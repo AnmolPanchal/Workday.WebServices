@@ -3,7 +3,7 @@ using System.CodeDom.Compiler;
 using System.ServiceModel;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Campus_EngagementService
+namespace Workday.CampusEngagement
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), ServiceContract(Namespace = "urn:com.workday/bsvc/Campus_Engagement", ConfigurationName = "Campus_EngagementService.Campus_EngagementPort")]
 	public interface Campus_EngagementPort

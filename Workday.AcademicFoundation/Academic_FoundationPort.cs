@@ -3,7 +3,7 @@ using System.CodeDom.Compiler;
 using System.ServiceModel;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Academic_FoundationService
+namespace Workday.AcademicFoundation
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), ServiceContract(Namespace = "urn:com.workday/bsvc/Academic_Foundation", ConfigurationName = "Academic_FoundationService.Academic_FoundationPort")]
 	public interface Academic_FoundationPort

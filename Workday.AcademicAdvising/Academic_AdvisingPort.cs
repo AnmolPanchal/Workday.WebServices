@@ -1,9 +1,8 @@
-using System;
 using System.CodeDom.Compiler;
 using System.ServiceModel;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Academic_AdvisingService
+namespace Workday.AcademicAdvising
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), ServiceContract(Namespace = "urn:com.workday/bsvc/Academic_Advising", ConfigurationName = "Academic_AdvisingService.Academic_AdvisingPort")]
 	public interface Academic_AdvisingPort
