@@ -1,9 +1,0 @@
-C:\Users\mf185129\Desktop\Workday.WebServices\Workdays.WorkdayExtensibility\bin\Debug\netstandard2.0\Workdays.WorkdayExtensibility.deps.json
-C:\Users\mf185129\Desktop\Workday.WebServices\Workdays.WorkdayExtensibility\bin\Debug\netstandard2.0\Workdays.WorkdayExtensibility.dll
-C:\Users\mf185129\Desktop\Workday.WebServices\Workdays.WorkdayExtensibility\obj\Debug\netstandard2.0\Workdays.WorkdayExtensibility.csproj.CoreCompileInputs.cache
-C:\Users\mf185129\Desktop\Workday.WebServices\Workdays.WorkdayExtensibility\obj\Debug\netstandard2.0\Workdays.WorkdayExtensibility.AssemblyInfoInputs.cache
-C:\Users\mf185129\Desktop\Workday.WebServices\Workdays.WorkdayExtensibility\obj\Debug\netstandard2.0\Workdays.WorkdayExtensibility.AssemblyInfo.cs
-C:\Users\mf185129\Desktop\Workday.WebServices\Workdays.WorkdayExtensibility\bin\Debug\netstandard2.0\Workdays.WorkdayExtensibility.pdb
-C:\Users\mf185129\Desktop\Workday.WebServices\Workdays.WorkdayExtensibility\obj\Debug\netstandard2.0\Workdays.WorkdayExtensibility.csprojAssemblyReference.cache
-C:\Users\mf185129\Desktop\Workday.WebServices\Workdays.WorkdayExtensibility\obj\Debug\netstandard2.0\Workdays.WorkdayExtensibility.dll
-C:\Users\mf185129\Desktop\Workday.WebServices\Workdays.WorkdayExtensibility\obj\Debug\netstandard2.0\Workdays.WorkdayExtensibility.pdb

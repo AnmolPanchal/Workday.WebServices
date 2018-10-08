@@ -1,9 +1,0 @@
-C:\Users\mf185129\Desktop\Workday.WebServices\Workday.WorkdayConnect\bin\Debug\netstandard2.0\Workday.WorkdayConnect.deps.json
-C:\Users\mf185129\Desktop\Workday.WebServices\Workday.WorkdayConnect\bin\Debug\netstandard2.0\Workday.WorkdayConnect.dll
-C:\Users\mf185129\Desktop\Workday.WebServices\Workday.WorkdayConnect\obj\Debug\netstandard2.0\Workday.WorkdayConnect.csproj.CoreCompileInputs.cache
-C:\Users\mf185129\Desktop\Workday.WebServices\Workday.WorkdayConnect\obj\Debug\netstandard2.0\Workday.WorkdayConnect.AssemblyInfoInputs.cache
-C:\Users\mf185129\Desktop\Workday.WebServices\Workday.WorkdayConnect\obj\Debug\netstandard2.0\Workday.WorkdayConnect.AssemblyInfo.cs
-C:\Users\mf185129\Desktop\Workday.WebServices\Workday.WorkdayConnect\bin\Debug\netstandard2.0\Workday.WorkdayConnect.pdb
-C:\Users\mf185129\Desktop\Workday.WebServices\Workday.WorkdayConnect\obj\Debug\netstandard2.0\Workday.WorkdayConnect.csprojAssemblyReference.cache
-C:\Users\mf185129\Desktop\Workday.WebServices\Workday.WorkdayConnect\obj\Debug\netstandard2.0\Workday.WorkdayConnect.dll
-C:\Users\mf185129\Desktop\Workday.WebServices\Workday.WorkdayConnect\obj\Debug\netstandard2.0\Workday.WorkdayConnect.pdb

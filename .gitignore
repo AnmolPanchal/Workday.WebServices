@@ -70,3 +70,12 @@
 /Workday.Talent/bin
 /Workday.Talent/obj
 /Workday.TenantDataTranslation/obj
+/Workday.TimeTracking/obj
+/Workday.WorkforcePlanning/obj
+/Workdays.WorkdayExtensibility/obj
+/Workday.WorkdayConnect/obj
+/Workday.TenantDataTranslation/bin
+/Workday.WorkforcePlanning/bin
+/Workdays.WorkdayExtensibility/bin
+/Workday.WorkdayConnect/bin
+/Workday.TimeTracking/bin
