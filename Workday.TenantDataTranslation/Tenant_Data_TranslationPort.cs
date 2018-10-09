@@ -3,9 +3,9 @@ using System.CodeDom.Compiler;
 using System.ServiceModel;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Tenant_Data_TranslationService
+namespace Workday.TenantDataTranslation
 {
-	[GeneratedCode("System.ServiceModel", "4.0.0.0"), ServiceContract(Namespace = "urn:com.workday/bsvc/Tenant_Data_Translation", ConfigurationName = "Tenant_Data_TranslationService.Tenant_Data_TranslationPort")]
+	[GeneratedCode("System.ServiceModel", "4.0.0.0"), ServiceContract(Namespace = "urn:com.workday/bsvc/Tenant_Data_Translation", ConfigurationName = "TenantDataTranslation.Tenant_Data_TranslationPort")]
 	public interface Tenant_Data_TranslationPort
 	{
 		[FaultContract(typeof(Validation_ErrorType[]), Action = "", Name = "Validation_Fault", Namespace = "urn:com.workday/bsvc"), FaultContract(typeof(Processing_FaultType), Action = "", Name = "Processing_Fault", Namespace = "urn:com.workday/bsvc"), OperationContract(Action = "", ReplyAction = "*"), XmlSerializerFormat(SupportFaults = true)]

@@ -3,9 +3,9 @@ using System.CodeDom.Compiler;
 using System.ServiceModel;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.StaffingService
+namespace Workday.Staffing
 {
-	[GeneratedCode("System.ServiceModel", "4.0.0.0"), ServiceContract(Namespace = "urn:com.workday/bsvc/Staffing", ConfigurationName = "StaffingService.StaffingPort")]
+	[GeneratedCode("System.ServiceModel", "4.0.0.0"), ServiceContract(Namespace = "urn:com.workday/bsvc/Staffing", ConfigurationName = "Staffing.StaffingPort")]
 	public interface StaffingPort
 	{
 		[FaultContract(typeof(Validation_ErrorType[]), Action = "", Name = "Validation_Fault", Namespace = "urn:com.workday/bsvc"), FaultContract(typeof(Processing_FaultType), Action = "", Name = "Processing_Fault", Namespace = "urn:com.workday/bsvc"), OperationContract(Action = "", ReplyAction = "*"), XmlSerializerFormat(SupportFaults = true)]

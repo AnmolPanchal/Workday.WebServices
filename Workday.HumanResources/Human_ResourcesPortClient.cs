@@ -6,7 +6,7 @@ using System.ServiceModel;
 using System.ServiceModel.Channels;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Human_ResourcesService
+namespace Workday.HumanResources
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), DebuggerStepThrough]
 	public class Human_ResourcesPortClient : ClientBase<Human_ResourcesPort>, Human_ResourcesPort

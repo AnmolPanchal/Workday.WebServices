@@ -4,7 +4,7 @@ using System.ComponentModel;
 using System.Diagnostics;
 using System.ServiceModel;
 
-namespace WorkdayWebServices.IntegrationsService
+namespace Workday.Integrations
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), EditorBrowsable(EditorBrowsableState.Advanced), DebuggerStepThrough, MessageContract(IsWrapped = false)]
 	public class Reassign_Business_Process_StepOutput

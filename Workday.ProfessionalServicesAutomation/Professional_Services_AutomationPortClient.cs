@@ -6,7 +6,7 @@ using System.ServiceModel;
 using System.ServiceModel.Channels;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Professional_Services_AutomationService
+namespace Workday.ProfessionalServicesAutomation
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), DebuggerStepThrough]
 	public class Professional_Services_AutomationPortClient : ClientBase<Professional_Services_AutomationPort>, Professional_Services_AutomationPort

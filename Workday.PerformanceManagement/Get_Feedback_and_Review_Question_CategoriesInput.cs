@@ -4,7 +4,7 @@ using System.ComponentModel;
 using System.Diagnostics;
 using System.ServiceModel;
 
-namespace WorkdayWebServices.Performance_ManagementService
+namespace Workday.PerformanceManagement
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), EditorBrowsable(EditorBrowsableState.Advanced), DebuggerStepThrough, MessageContract(IsWrapped = false)]
 	public class Get_Feedback_and_Review_Question_CategoriesInput

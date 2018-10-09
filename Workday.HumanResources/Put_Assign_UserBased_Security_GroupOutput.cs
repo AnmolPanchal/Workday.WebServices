@@ -5,7 +5,7 @@ using System.Diagnostics;
 using System.ServiceModel;
 using System.Xml.Serialization;
 
-namespace WorkdayWebServices.Human_ResourcesService
+namespace Workday.HumanResources
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), EditorBrowsable(EditorBrowsableState.Advanced), DebuggerStepThrough, MessageContract(IsWrapped = false)]
 	public class Put_Assign_UserBased_Security_GroupOutput

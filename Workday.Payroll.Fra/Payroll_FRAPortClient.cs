@@ -6,7 +6,7 @@ using System.ServiceModel;
 using System.ServiceModel.Channels;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Payroll_FRAService
+namespace Workday.Payroll.Fra
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), DebuggerStepThrough]
 	public class Payroll_FRAPortClient : ClientBase<Payroll_FRAPort>, Payroll_FRAPort

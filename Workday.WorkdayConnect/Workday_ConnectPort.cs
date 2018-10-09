@@ -3,9 +3,9 @@ using System.CodeDom.Compiler;
 using System.ServiceModel;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Workday_ConnectService
+namespace Workday.WorkdayConnect
 {
-	[GeneratedCode("System.ServiceModel", "4.0.0.0"), ServiceContract(Namespace = "urn:com.workday/bsvc/Workday_Connect", ConfigurationName = "Workday_ConnectService.Workday_ConnectPort")]
+	[GeneratedCode("System.ServiceModel", "4.0.0.0"), ServiceContract(Namespace = "urn:com.workday/bsvc/Workday_Connect", ConfigurationName = "WorkdayConnect.Workday_ConnectPort")]
 	public interface Workday_ConnectPort
 	{
 		[FaultContract(typeof(Validation_ErrorType[]), Action = "", Name = "Validation_Fault", Namespace = "urn:com.workday/bsvc"), FaultContract(typeof(Processing_FaultType), Action = "", Name = "Processing_Fault", Namespace = "urn:com.workday/bsvc"), OperationContract(Action = "", ReplyAction = "*"), XmlSerializerFormat(SupportFaults = true)]

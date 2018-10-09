@@ -5,7 +5,7 @@ using System.Diagnostics;
 using System.ServiceModel;
 using System.Xml.Serialization;
 
-namespace WorkdayWebServices.InventoryService
+namespace Workday.Inventory
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), EditorBrowsable(EditorBrowsableState.Advanced), DebuggerStepThrough, MessageContract(IsWrapped = false)]
 	public class Submit_PutAwayInput

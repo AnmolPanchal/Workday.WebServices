@@ -5,7 +5,7 @@ using System.Diagnostics;
 using System.Runtime.CompilerServices;
 using System.Xml.Serialization;
 
-namespace WorkdayWebServices.Resource_ManagementService
+namespace Workday.ResourceManagement
 {
 	[GeneratedCode("System.Xml", "4.6.1590.0"), DesignerCategory("code"), DebuggerStepThrough, XmlType(TypeName = "Multi-Supplier_DataType", Namespace = "urn:com.workday/bsvc")]
 	[Serializable]

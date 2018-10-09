@@ -6,7 +6,7 @@ using System.ServiceModel;
 using System.ServiceModel.Channels;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Payroll_GBRService
+namespace Workday.Payroll.Gbr
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), DebuggerStepThrough]
 	public class Payroll_GBRPortClient : ClientBase<Payroll_GBRPort>, Payroll_GBRPort

@@ -3,7 +3,7 @@ using System.CodeDom.Compiler;
 using System.ServiceModel;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.IntegrationsService
+namespace Workday.Integrations
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), ServiceContract(Namespace = "urn:com.workday/bsvc/Integrations", ConfigurationName = "IntegrationsService.IntegrationsPort")]
 	public interface IntegrationsPort

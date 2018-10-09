@@ -3,9 +3,9 @@ using System.CodeDom.Compiler;
 using System.ServiceModel;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Student_FinanceService
+namespace Workday.StudentFinance
 {
-	[GeneratedCode("System.ServiceModel", "4.0.0.0"), ServiceContract(Namespace = "urn:com.workday/bsvc/Student_Finance", ConfigurationName = "Student_FinanceService.Student_FinancePort")]
+	[GeneratedCode("System.ServiceModel", "4.0.0.0"), ServiceContract(Namespace = "urn:com.workday/bsvc/Student_Finance", ConfigurationName = "StudentFinance.Student_FinancePort")]
 	public interface Student_FinancePort
 	{
 		[FaultContract(typeof(Validation_ErrorType[]), Action = "", Name = "Validation_Fault", Namespace = "urn:com.workday/bsvc"), FaultContract(typeof(Processing_FaultType), Action = "", Name = "Processing_Fault", Namespace = "urn:com.workday/bsvc"), OperationContract(Action = "", ReplyAction = "*"), XmlSerializerFormat(SupportFaults = true)]

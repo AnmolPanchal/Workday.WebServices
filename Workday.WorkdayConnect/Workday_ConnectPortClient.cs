@@ -6,7 +6,7 @@ using System.ServiceModel;
 using System.ServiceModel.Channels;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Workday_ConnectService
+namespace Workday.WorkdayConnect
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), DebuggerStepThrough]
 	public class Workday_ConnectPortClient : ClientBase<Workday_ConnectPort>, Workday_ConnectPort

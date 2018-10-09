@@ -4,7 +4,7 @@ using System.ComponentModel;
 using System.Diagnostics;
 using System.ServiceModel;
 
-namespace WorkdayWebServices.Workday_ConnectService
+namespace Workday.WorkdayConnect
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), EditorBrowsable(EditorBrowsableState.Advanced), DebuggerStepThrough, MessageContract(IsWrapped = false)]
 	public class Put_Message_TemplateInput

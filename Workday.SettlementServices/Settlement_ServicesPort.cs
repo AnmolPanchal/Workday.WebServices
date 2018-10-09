@@ -3,9 +3,9 @@ using System.CodeDom.Compiler;
 using System.ServiceModel;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Settlement_ServicesService
+namespace Workday.SettlementServices
 {
-	[GeneratedCode("System.ServiceModel", "4.0.0.0"), ServiceContract(Namespace = "urn:com.workday/bsvc/Settlement_Services", ConfigurationName = "Settlement_ServicesService.Settlement_ServicesPort")]
+	[GeneratedCode("System.ServiceModel", "4.0.0.0"), ServiceContract(Namespace = "urn:com.workday/bsvc/Settlement_Services", ConfigurationName = "SettlementServices.Settlement_ServicesPort")]
 	public interface Settlement_ServicesPort
 	{
 		[FaultContract(typeof(Validation_ErrorType[]), Action = "", Name = "Validation_Fault", Namespace = "urn:com.workday/bsvc"), FaultContract(typeof(Processing_FaultType), Action = "", Name = "Processing_Fault", Namespace = "urn:com.workday/bsvc"), OperationContract(Action = "", ReplyAction = "*"), XmlSerializerFormat(SupportFaults = true)]

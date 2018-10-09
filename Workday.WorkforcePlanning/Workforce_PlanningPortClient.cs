@@ -6,7 +6,7 @@ using System.ServiceModel;
 using System.ServiceModel.Channels;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Workforce_PlanningService
+namespace Workday.WorkforcePlanning
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), DebuggerStepThrough]
 	public class Workforce_PlanningPortClient : ClientBase<Workforce_PlanningPort>, Workforce_PlanningPort

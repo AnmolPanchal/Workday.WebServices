@@ -6,7 +6,7 @@ using System.ServiceModel;
 using System.ServiceModel.Channels;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Tenant_Data_TranslationService
+namespace Workday.TenantDataTranslation
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), DebuggerStepThrough]
 	public class Tenant_Data_TranslationPortClient : ClientBase<Tenant_Data_TranslationPort>, Tenant_Data_TranslationPort

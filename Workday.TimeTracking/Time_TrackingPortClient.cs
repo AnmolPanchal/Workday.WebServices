@@ -6,7 +6,7 @@ using System.ServiceModel;
 using System.ServiceModel.Channels;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Time_TrackingService
+namespace Workday.TimeTrackingService
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), DebuggerStepThrough]
 	public class Time_TrackingPortClient : ClientBase<Time_TrackingPort>, Time_TrackingPort

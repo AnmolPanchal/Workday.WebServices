@@ -4,7 +4,7 @@ using System.ComponentModel;
 using System.Diagnostics;
 using System.ServiceModel;
 
-namespace WorkdayWebServices.PayrollService
+namespace Workday.Payroll
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), EditorBrowsable(EditorBrowsableState.Advanced), DebuggerStepThrough, MessageContract(IsWrapped = false)]
 	public class Put_Payroll_ROE_Prior_Period_History_ResultsInput

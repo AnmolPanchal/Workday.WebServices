@@ -5,8 +5,9 @@ using System.Diagnostics;
 using System.Runtime.CompilerServices;
 using System.Xml.Schema;
 using System.Xml.Serialization;
+using Workday.Integrations;
 
-namespace WorkdayWebServices.IntegrationsService
+namespace Workday.Integrations
 {
 	[GeneratedCode("System.Xml", "4.6.1590.0"), DesignerCategory("code"), DebuggerStepThrough, XmlType(Namespace = "urn:com.workday/bsvc")]
 	[Serializable]

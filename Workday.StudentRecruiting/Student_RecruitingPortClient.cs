@@ -6,7 +6,7 @@ using System.ServiceModel;
 using System.ServiceModel.Channels;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Student_RecruitingService
+namespace Workday.StudentRecruiting
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), DebuggerStepThrough]
 	public class Student_RecruitingPortClient : ClientBase<Student_RecruitingPort>, Student_RecruitingPort

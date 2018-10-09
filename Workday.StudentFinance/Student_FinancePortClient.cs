@@ -6,7 +6,7 @@ using System.ServiceModel;
 using System.ServiceModel.Channels;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Student_FinanceService
+namespace Workday.StudentFinance
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), DebuggerStepThrough]
 	public class Student_FinancePortClient : ClientBase<Student_FinancePort>, Student_FinancePort

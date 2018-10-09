@@ -6,7 +6,7 @@ using System.ServiceModel;
 using System.ServiceModel.Channels;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Resource_ManagementService
+namespace Workday.ResourceManagement
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), DebuggerStepThrough]
 	public class Resource_ManagementPortClient : ClientBase<Resource_ManagementPort>, Resource_ManagementPort

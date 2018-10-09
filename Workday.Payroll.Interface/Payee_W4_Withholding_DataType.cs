@@ -6,7 +6,7 @@ using System.Runtime.CompilerServices;
 using System.Xml.Schema;
 using System.Xml.Serialization;
 
-namespace WorkdayWebServices.Payroll_InterfaceService
+namespace Workday.Payroll.Interface
 {
 	[GeneratedCode("System.Xml", "4.6.1590.0"), DesignerCategory("code"), DebuggerStepThrough, XmlType(TypeName = "Payee_W-4_Withholding_DataType", Namespace = "urn:com.workday/bsvc")]
 	[Serializable]

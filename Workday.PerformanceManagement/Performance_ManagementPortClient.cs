@@ -6,7 +6,7 @@ using System.ServiceModel;
 using System.ServiceModel.Channels;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Performance_ManagementService
+namespace Workday.PerformanceManagement
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), DebuggerStepThrough]
 	public class Performance_ManagementPortClient : ClientBase<Performance_ManagementPort>, Performance_ManagementPort

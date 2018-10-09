@@ -6,7 +6,7 @@ using System.ServiceModel;
 using System.ServiceModel.Channels;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Settlement_ServicesService
+namespace Workday.SettlementServices
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), DebuggerStepThrough]
 	public class Settlement_ServicesPortClient : ClientBase<Settlement_ServicesPort>, Settlement_ServicesPort

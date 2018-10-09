@@ -6,7 +6,7 @@ using System.Runtime.CompilerServices;
 using System.Xml.Schema;
 using System.Xml.Serialization;
 
-namespace WorkdayWebServices.PayrollService
+namespace Workday.Payroll
 {
 	[GeneratedCode("System.Xml", "4.6.1590.0"), DesignerCategory("code"), DebuggerStepThrough, XmlType(TypeName = "Put_W-2_W-2C_Printing_Election_RequestType", Namespace = "urn:com.workday/bsvc")]
 	[Serializable]

@@ -5,7 +5,7 @@ using System.Diagnostics;
 using System.ServiceModel;
 using System.Xml.Serialization;
 
-namespace WorkdayWebServices.PayrollService
+namespace Workday.Payroll
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), EditorBrowsable(EditorBrowsableState.Advanced), DebuggerStepThrough, MessageContract(IsWrapped = false)]
 	public class Get_W2_W2C_Printing_ElectionInput

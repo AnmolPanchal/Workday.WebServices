@@ -5,7 +5,7 @@ using System.Diagnostics;
 using System.Runtime.CompilerServices;
 using System.Xml.Serialization;
 
-namespace WorkdayWebServices.NotificationService
+namespace Workday.Notification
 {
 	[GeneratedCode("System.Xml", "4.6.1590.0"), DesignerCategory("code"), DebuggerStepThrough, XmlInclude(typeof(Notification_DataRootType)), XmlType(Namespace = "urn:com.workday/bsvc")]
 	[Serializable]

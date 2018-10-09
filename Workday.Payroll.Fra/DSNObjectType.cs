@@ -6,7 +6,7 @@ using System.Runtime.CompilerServices;
 using System.Xml.Schema;
 using System.Xml.Serialization;
 
-namespace WorkdayWebServices.Payroll_FRAService
+namespace Workday.Payroll.Fra
 {
 	[GeneratedCode("System.Xml", "4.6.1590.0"), DesignerCategory("code"), DebuggerStepThrough, XmlType(Namespace = "urn:com.workday/bsvc")]
 	[Serializable]

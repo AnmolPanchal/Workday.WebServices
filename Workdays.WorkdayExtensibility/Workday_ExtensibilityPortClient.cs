@@ -6,7 +6,7 @@ using System.ServiceModel;
 using System.ServiceModel.Channels;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Workday_ExtensibilityService
+namespace Workday.WorkdayExtensibility
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), DebuggerStepThrough]
 	public class Workday_ExtensibilityPortClient : ClientBase<Workday_ExtensibilityPort>, Workday_ExtensibilityPort

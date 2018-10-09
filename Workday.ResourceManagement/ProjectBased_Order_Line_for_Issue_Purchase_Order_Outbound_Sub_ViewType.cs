@@ -5,7 +5,7 @@ using System.Diagnostics;
 using System.Runtime.CompilerServices;
 using System.Xml.Serialization;
 
-namespace WorkdayWebServices.Resource_ManagementService
+namespace Workday.ResourceManagement
 {
 	[GeneratedCode("System.Xml", "4.6.1590.0"), DesignerCategory("code"), DebuggerStepThrough, XmlType(TypeName = "Project-Based_Order_Line_for_Issue_Purchase_Order_Outbound_Sub_ViewType", Namespace = "urn:com.workday/bsvc")]
 	[Serializable]

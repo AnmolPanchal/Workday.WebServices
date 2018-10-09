@@ -5,7 +5,7 @@ using System.Diagnostics;
 using System.Runtime.CompilerServices;
 using System.Xml.Serialization;
 
-namespace WorkdayWebServices.Human_ResourcesService
+namespace Workday.HumanResources
 {
 	[GeneratedCode("System.Xml", "4.6.1590.0"), DesignerCategory("code"), DebuggerStepThrough, XmlType(TypeName = "Assign_User-Based_Security_Groups_Response_GroupType", Namespace = "urn:com.workday/bsvc")]
 	[Serializable]

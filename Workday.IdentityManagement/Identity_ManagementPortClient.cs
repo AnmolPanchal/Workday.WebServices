@@ -1,4 +1,3 @@
-using System;
 using System.CodeDom.Compiler;
 using System.ComponentModel;
 using System.Diagnostics;
@@ -6,7 +5,7 @@ using System.ServiceModel;
 using System.ServiceModel.Channels;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Identity_ManagementService
+namespace Workday.IdentityManagement
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), DebuggerStepThrough]
 	public class Identity_ManagementPortClient : ClientBase<Identity_ManagementPort>, Identity_ManagementPort

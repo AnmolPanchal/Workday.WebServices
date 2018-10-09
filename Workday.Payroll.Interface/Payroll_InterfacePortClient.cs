@@ -6,7 +6,7 @@ using System.ServiceModel;
 using System.ServiceModel.Channels;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Payroll_InterfaceService
+namespace Workday.Payroll.Interface
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), DebuggerStepThrough]
 	public class Payroll_InterfacePortClient : ClientBase<Payroll_InterfacePort>, Payroll_InterfacePort

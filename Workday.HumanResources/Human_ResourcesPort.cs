@@ -3,7 +3,7 @@ using System.CodeDom.Compiler;
 using System.ServiceModel;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Human_ResourcesService
+namespace Workday.HumanResources
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), ServiceContract(Namespace = "urn:com.workday/bsvc/Human_Resources", ConfigurationName = "Human_ResourcesService.Human_ResourcesPort")]
 	public interface Human_ResourcesPort

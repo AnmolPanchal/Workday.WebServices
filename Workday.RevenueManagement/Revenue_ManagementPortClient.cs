@@ -6,7 +6,7 @@ using System.ServiceModel;
 using System.ServiceModel.Channels;
 using System.Threading.Tasks;
 
-namespace WorkdayWebServices.Revenue_ManagementService
+namespace Workday.RevenueManagement
 {
 	[GeneratedCode("System.ServiceModel", "4.0.0.0"), DebuggerStepThrough]
 	public class Revenue_ManagementPortClient : ClientBase<Revenue_ManagementPort>, Revenue_ManagementPort

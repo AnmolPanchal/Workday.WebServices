@@ -5,7 +5,7 @@ using System.Diagnostics;
 using System.Runtime.CompilerServices;
 using System.Xml.Serialization;
 
-namespace WorkdayWebServices.PayrollService
+namespace Workday.Payroll
 {
 	[GeneratedCode("System.Xml", "4.6.1590.0"), DesignerCategory("code"), DebuggerStepThrough, XmlType(TypeName = "Payroll_Pre-Printed_Payslips_Request_CriteriaType", Namespace = "urn:com.workday/bsvc")]
 	[Serializable]
