@@ -3,8 +3,11 @@
 
 
 Making Visual Studio processing correctly Workday WSDL is a real pain.
+
 Fortunately Ben Martin has did this job and made it availbale for the rest of world.
+
 Sadly, his library is so omnicomprensive that the binary is 25MB and only for .Net Framework 4.6
+
 So, I splitted it into different DotNet Standard dll that can be referenced separately
 
 ##How to use
